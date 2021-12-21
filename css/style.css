@@ -1,0 +1,19 @@
+html {
+    background-color: #000000;
+    }
+    body {
+        background-color: #FF9500;
+        width: 600px;
+        border: 2px solid red;
+        padding: 2px 35px 30px 30px;
+        margin: 0 auto;
+
+        }
+        h1{
+            color: lightblue;
+            }
+            img{
+                width: 50%;
+                margin: 0 auto;
+                padding: 10px 20px 20px 30px;
+                }
